@@ -5,6 +5,7 @@ Ticketing Project is a simple ticketing web application. It demonstrates populat
 
 ## Contributions
 Kyle Louderback
+<br>
 Tanya Gupta
 
 ## License
