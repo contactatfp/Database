@@ -20107,7 +20107,7 @@ a.pswp__share--download:hover {
   position: relative;
 }
 .u-dialog-close-button {
-  position: absolute;
+  position: relative;
   top: 20px;
   right: 20px;
   color: inherit;
