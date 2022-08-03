@@ -19,5 +19,7 @@ Kyle Louderback
 <br>
 Tanya Gupta
 
+Kyle was in charge of writing up the code (java, css, and html) for the tickets, consumers, and friends entities. He also researched Spring Framework for us to implement into our app. Tanya was in charge of writing code (java, css, and html) for the host, performers, and venue entities. Tanya was also in charge of working on the ER Diagram. Both of us worked on the final report, presentation, and the SQL script for the software.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
